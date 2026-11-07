@@ -1,0 +1,122 @@
+{
+ "plasma_rifle": {
+  "cell": [
+   0,
+   0,
+   480,
+   426
+  ],
+  "opaque_px": 32964,
+  "opaque_frac": 0.161
+ },
+ "gatling": {
+  "cell": [
+   480,
+   0,
+   960,
+   426
+  ],
+  "opaque_px": 62013,
+  "opaque_frac": 0.303
+ },
+ "missile_pod": {
+  "cell": [
+   960,
+   0,
+   1440,
+   426
+  ],
+  "opaque_px": 52727,
+  "opaque_frac": 0.258
+ },
+ "homing_missile": {
+  "cell": [
+   1440,
+   0,
+   1920,
+   426
+  ],
+  "opaque_px": 28986,
+  "opaque_frac": 0.142
+ },
+ "railgun": {
+  "cell": [
+   0,
+   426,
+   480,
+   852
+  ],
+  "opaque_px": 18299,
+  "opaque_frac": 0.089
+ },
+ "energy_sword": {
+  "cell": [
+   480,
+   426,
+   960,
+   852
+  ],
+  "opaque_px": 20847,
+  "opaque_frac": 0.102
+ },
+ "rocket_launcher": {
+  "cell": [
+   960,
+   426,
+   1440,
+   852
+  ],
+  "opaque_px": 44118,
+  "opaque_frac": 0.216
+ },
+ "flamethrower": {
+  "cell": [
+   1440,
+   426,
+   1920,
+   852
+  ],
+  "opaque_px": 35368,
+  "opaque_frac": 0.173
+ },
+ "laser_emitter": {
+  "cell": [
+   0,
+   852,
+   480,
+   1280
+  ],
+  "opaque_px": 15422,
+  "opaque_frac": 0.075
+ },
+ "shield_generator": {
+  "cell": [
+   480,
+   852,
+   960,
+   1280
+  ],
+  "opaque_px": 47433,
+  "opaque_frac": 0.231
+ },
+ "combat_drone": {
+  "cell": [
+   960,
+   852,
+   1440,
+   1280
+  ],
+  "opaque_px": 26426,
+  "opaque_frac": 0.129
+ },
+ "grenade_launcher": {
+  "cell": [
+   1440,
+   852,
+   1920,
+   1280
+  ],
+  "opaque_px": 35439,
+  "opaque_frac": 0.173
+ }
+}

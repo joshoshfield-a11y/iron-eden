@@ -1,0 +1,152 @@
+{
+ "grass": {
+  "cell": [
+   0,
+   0,
+   384,
+   426
+  ],
+  "opaque_px": 57547,
+  "opaque_frac": 0.352
+ },
+ "dirt_path": {
+  "cell": [
+   384,
+   0,
+   768,
+   426
+  ],
+  "opaque_px": 58476,
+  "opaque_frac": 0.357
+ },
+ "cliff": {
+  "cell": [
+   768,
+   0,
+   1152,
+   426
+  ],
+  "opaque_px": 69589,
+  "opaque_frac": 0.425
+ },
+ "water": {
+  "cell": [
+   1152,
+   0,
+   1536,
+   426
+  ],
+  "opaque_px": 59836,
+  "opaque_frac": 0.366
+ },
+ "shoreline": {
+  "cell": [
+   1536,
+   0,
+   1920,
+   426
+  ],
+  "opaque_px": 60177,
+  "opaque_frac": 0.368
+ },
+ "metal_platform": {
+  "cell": [
+   0,
+   426,
+   384,
+   852
+  ],
+  "opaque_px": 46216,
+  "opaque_frac": 0.283
+ },
+ "gate": {
+  "cell": [
+   384,
+   426,
+   768,
+   852
+  ],
+  "opaque_px": 43968,
+  "opaque_frac": 0.269
+ },
+ "pine_trees": {
+  "cell": [
+   768,
+   426,
+   1152,
+   852
+  ],
+  "opaque_px": 60821,
+  "opaque_frac": 0.372
+ },
+ "crystal": {
+  "cell": [
+   1152,
+   426,
+   1536,
+   852
+  ],
+  "opaque_px": 62101,
+  "opaque_frac": 0.38
+ },
+ "wreck": {
+  "cell": [
+   1536,
+   426,
+   1920,
+   852
+  ],
+  "opaque_px": 60441,
+  "opaque_frac": 0.369
+ },
+ "solar": {
+  "cell": [
+   0,
+   852,
+   384,
+   1280
+  ],
+  "opaque_px": 55123,
+  "opaque_frac": 0.335
+ },
+ "turret": {
+  "cell": [
+   384,
+   852,
+   768,
+   1280
+  ],
+  "opaque_px": 49299,
+  "opaque_frac": 0.3
+ },
+ "crate": {
+  "cell": [
+   768,
+   852,
+   1152,
+   1280
+  ],
+  "opaque_px": 49039,
+  "opaque_frac": 0.298
+ },
+ "mossy_stone": {
+  "cell": [
+   1152,
+   852,
+   1536,
+   1280
+  ],
+  "opaque_px": 52450,
+  "opaque_frac": 0.319
+ },
+ "rust_wall": {
+  "cell": [
+   1536,
+   852,
+   1920,
+   1280
+  ],
+  "opaque_px": 53951,
+  "opaque_frac": 0.328
+ }
+}

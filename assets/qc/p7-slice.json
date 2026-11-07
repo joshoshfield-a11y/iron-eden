@@ -1,0 +1,170 @@
+{
+ "p7_assault": {
+  "size": [
+   560,
+   556
+  ],
+  "opaque_px": 157677
+ },
+ "p7_scout": {
+  "size": [
+   525,
+   446
+  ],
+  "opaque_px": 63835
+ },
+ "p7_artillery": {
+  "size": [
+   514,
+   548
+  ],
+  "opaque_px": 127116
+ },
+ "p7_defender": {
+  "size": [
+   560,
+   444
+  ],
+  "opaque_px": 134976
+ },
+ "p7_spider": {
+  "size": [
+   528,
+   523
+  ],
+  "opaque_px": 58597
+ },
+ "p7_raider": {
+  "size": [
+   508,
+   506
+  ],
+  "opaque_px": 61749
+ },
+ "p7_brute": {
+  "size": [
+   534,
+   556
+  ],
+  "opaque_px": 139540
+ },
+ "p7_drone": {
+  "size": [
+   455,
+   232
+  ],
+  "opaque_px": 25517
+ },
+ "p7_burrower": {
+  "size": [
+   414,
+   302
+  ],
+  "opaque_px": 51468
+ },
+ "p7_siege": {
+  "size": [
+   480,
+   523
+  ],
+  "opaque_px": 144216
+ },
+ "p7_shield": {
+  "size": [
+   480,
+   468
+  ],
+  "opaque_px": 104724
+ },
+ "p7_sapper": {
+  "size": [
+   400,
+   343
+  ],
+  "opaque_px": 31793
+ },
+ "p7_lancer": {
+  "size": [
+   468,
+   362
+  ],
+  "opaque_px": 36180
+ },
+ "p7_bulwark": {
+  "size": [
+   480,
+   437
+  ],
+  "opaque_px": 98846
+ },
+ "p7_carrier": {
+  "size": [
+   480,
+   411
+  ],
+  "opaque_px": 74337
+ },
+ "p7_siege_mk2": {
+  "size": [
+   474,
+   479
+  ],
+  "opaque_px": 123213
+ },
+ "p7_eng_drone": {
+  "size": [
+   426,
+   370
+  ],
+  "opaque_px": 38145
+ },
+ "p7_ally_scout": {
+  "size": [
+   458,
+   423
+  ],
+  "opaque_px": 43619
+ },
+ "p7_ally_heavy": {
+  "size": [
+   463,
+   507
+  ],
+  "opaque_px": 109056
+ },
+ "p7_ally_support": {
+  "size": [
+   450,
+   551
+  ],
+  "opaque_px": 77308
+ },
+ "p7_substation": {
+  "size": [
+   429,
+   404
+  ],
+  "opaque_px": 91490
+ },
+ "p7_tunnel": {
+  "size": [
+   477,
+   425
+  ],
+  "opaque_px": 117287
+ },
+ "p7_cache": {
+  "size": [
+   442,
+   440
+  ],
+  "opaque_px": 94267
+ },
+ "p7_beacon": {
+  "size": [
+   261,
+   588
+  ],
+  "opaque_px": 55533
+ }
+}

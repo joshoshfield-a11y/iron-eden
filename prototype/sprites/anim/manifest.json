@@ -1,0 +1,192 @@
+{
+ "scout": {
+  "front": {
+   "idle": "scout_front_idle.png",
+   "walk1": "scout_front_walk1.png",
+   "walk2": "scout_front_walk2.png",
+   "attack": "scout_front_attack.png",
+   "dash": "scout_front_dash.png",
+   "hurt": "scout_front_hurt.png",
+   "destroyed": "scout_front_destroyed.png"
+  },
+  "side": {
+   "idle": "scout_side_idle.png",
+   "walk1": "scout_side_walk1.png",
+   "walk2": "scout_side_walk2.png",
+   "attack": "scout_side_attack.png",
+   "dash": "scout_side_dash.png",
+   "hurt": "scout_side_hurt.png",
+   "destroyed": "scout_side_destroyed.png"
+  },
+  "back": {
+   "idle": "scout_back_idle.png",
+   "walk1": "scout_back_walk1.png",
+   "walk2": "scout_back_walk2.png",
+   "attack": "scout_back_attack.png",
+   "dash": "scout_back_dash.png",
+   "hurt": "scout_back_hurt.png",
+   "destroyed": "scout_back_destroyed.png"
+  },
+  "threequarter": {
+   "idle": "scout_threequarter_idle.png",
+   "walk1": "scout_threequarter_walk1.png",
+   "walk2": "scout_threequarter_walk2.png",
+   "attack": "scout_threequarter_attack.png",
+   "dash": "scout_threequarter_dash.png",
+   "hurt": "scout_threequarter_hurt.png",
+   "destroyed": "scout_threequarter_destroyed.png"
+  }
+ },
+ "assault": {
+  "front": {
+   "idle": "assault_front_idle.png",
+   "walk1": "assault_front_walk1.png",
+   "walk2": "assault_front_walk2.png",
+   "attack": "assault_front_attack.png",
+   "dash": "assault_front_dash.png",
+   "hurt": "assault_front_hurt.png",
+   "destroyed": "assault_front_destroyed.png"
+  },
+  "side": {
+   "idle": "assault_side_idle.png",
+   "walk1": "assault_side_walk1.png",
+   "walk2": "assault_side_walk2.png",
+   "attack": "assault_side_attack.png",
+   "dash": "assault_side_dash.png",
+   "hurt": "assault_side_hurt.png",
+   "destroyed": "assault_side_destroyed.png"
+  },
+  "back": {
+   "idle": "assault_back_idle.png",
+   "walk1": "assault_back_walk1.png",
+   "walk2": "assault_back_walk2.png",
+   "attack": "assault_back_attack.png",
+   "dash": "assault_back_dash.png",
+   "hurt": "assault_back_hurt.png",
+   "destroyed": "assault_back_destroyed.png"
+  },
+  "threequarter": {
+   "idle": "assault_threequarter_idle.png",
+   "walk1": "assault_threequarter_walk1.png",
+   "walk2": "assault_threequarter_walk2.png",
+   "attack": "assault_threequarter_attack.png",
+   "dash": "assault_threequarter_dash.png",
+   "hurt": "assault_threequarter_hurt.png",
+   "destroyed": "assault_threequarter_destroyed.png"
+  }
+ },
+ "tank": {
+  "front": {
+   "idle": "tank_front_idle.png",
+   "walk1": "tank_front_walk1.png",
+   "walk2": "tank_front_walk2.png",
+   "attack": "tank_front_attack.png",
+   "dash": "tank_front_dash.png",
+   "hurt": "tank_front_hurt.png",
+   "destroyed": "tank_front_destroyed.png"
+  },
+  "side": {
+   "idle": "tank_side_idle.png",
+   "walk1": "tank_side_walk1.png",
+   "walk2": "tank_side_walk2.png",
+   "attack": "tank_side_attack.png",
+   "dash": "tank_side_dash.png",
+   "hurt": "tank_side_hurt.png",
+   "destroyed": "tank_side_destroyed.png"
+  },
+  "back": {
+   "idle": "tank_back_idle.png",
+   "walk1": "tank_back_walk1.png",
+   "walk2": "tank_back_walk2.png",
+   "attack": "tank_back_attack.png",
+   "dash": "tank_back_dash.png",
+   "hurt": "tank_back_hurt.png",
+   "destroyed": "tank_back_destroyed.png"
+  },
+  "threequarter": {
+   "idle": "tank_threequarter_idle.png",
+   "walk1": "tank_threequarter_walk1.png",
+   "walk2": "tank_threequarter_walk2.png",
+   "attack": "tank_threequarter_attack.png",
+   "dash": "tank_threequarter_dash.png",
+   "hurt": "tank_threequarter_hurt.png",
+   "destroyed": "tank_threequarter_destroyed.png"
+  }
+ },
+ "sniper": {
+  "front": {
+   "idle": "sniper_front_idle.png",
+   "walk1": "sniper_front_walk1.png",
+   "walk2": "sniper_front_walk2.png",
+   "attack": "sniper_front_attack.png",
+   "dash": "sniper_front_dash.png",
+   "hurt": "sniper_front_hurt.png",
+   "destroyed": "sniper_front_destroyed.png"
+  },
+  "side": {
+   "idle": "sniper_side_idle.png",
+   "walk1": "sniper_side_walk1.png",
+   "walk2": "sniper_side_walk2.png",
+   "attack": "sniper_side_attack.png",
+   "dash": "sniper_side_dash.png",
+   "hurt": "sniper_side_hurt.png",
+   "destroyed": "sniper_side_destroyed.png"
+  },
+  "back": {
+   "idle": "sniper_back_idle.png",
+   "walk1": "sniper_back_walk1.png",
+   "walk2": "sniper_back_walk2.png",
+   "attack": "sniper_back_attack.png",
+   "dash": "sniper_back_dash.png",
+   "hurt": "sniper_back_hurt.png",
+   "destroyed": "sniper_back_destroyed.png"
+  },
+  "threequarter": {
+   "idle": "sniper_threequarter_idle.png",
+   "walk1": "sniper_threequarter_walk1.png",
+   "walk2": "sniper_threequarter_walk2.png",
+   "attack": "sniper_threequarter_attack.png",
+   "dash": "sniper_threequarter_dash.png",
+   "hurt": "sniper_threequarter_hurt.png",
+   "destroyed": "sniper_threequarter_destroyed.png"
+  }
+ },
+ "support": {
+  "front": {
+   "idle": "support_front_idle.png",
+   "walk1": "support_front_walk1.png",
+   "walk2": "support_front_walk2.png",
+   "attack": "support_front_attack.png",
+   "dash": "support_front_dash.png",
+   "hurt": "support_front_hurt.png",
+   "destroyed": "support_front_destroyed.png"
+  },
+  "side": {
+   "idle": "support_side_idle.png",
+   "walk1": "support_side_walk1.png",
+   "walk2": "support_side_walk2.png",
+   "attack": "support_side_attack.png",
+   "dash": "support_side_dash.png",
+   "hurt": "support_side_hurt.png",
+   "destroyed": "support_side_destroyed.png"
+  },
+  "back": {
+   "idle": "support_back_idle.png",
+   "walk1": "support_back_walk1.png",
+   "walk2": "support_back_walk2.png",
+   "attack": "support_back_attack.png",
+   "dash": "support_back_dash.png",
+   "hurt": "support_back_hurt.png",
+   "destroyed": "support_back_destroyed.png"
+  },
+  "threequarter": {
+   "idle": "support_threequarter_idle.png",
+   "walk1": "support_threequarter_walk1.png",
+   "walk2": "support_threequarter_walk2.png",
+   "attack": "support_threequarter_attack.png",
+   "dash": "support_threequarter_dash.png",
+   "hurt": "support_threequarter_hurt.png",
+   "destroyed": "support_threequarter_destroyed.png"
+  }
+ }
+}
